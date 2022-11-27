@@ -1,27 +1,8 @@
 body{
     background-color: #66a6c4;
     margin: 1px;
-    padding: 5% 3%;
-}
-
-.contenedor {
-    display: flex;
-    }
-
-.text {
-    z-index: 1;
-    width: 800px;
-    height: 500px;
-    margin-right: 30px;
-    padding: 5px 30px;
-    padding-right: 400px;
-    font-size: 15px;
-    line-height: 1.5;
-    text-align: justify;
-    font-weight: 500;
+    padding: .5% 3%;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
     color: white;
-    background-image: url(IMAGES/FONDO.png);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
