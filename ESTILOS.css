@@ -4,9 +4,10 @@ body{
     padding: .5% 3%;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
-    background-image: url(IMAGES/fondo.jpg);
+    background-image: url(IMAGES/fondo1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
 }
 
 .home {
